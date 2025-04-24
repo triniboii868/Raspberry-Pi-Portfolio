@@ -1,4 +1,4 @@
-# Raspberry-Pi-Introduction\
+# Raspberry-Pi-Portfolio
 
 ## What is a Raspberry Pi device?
 A Raspberry Pi device is a small, powerful, and inexpensive single-baord computer (SBC). It enables wireless internet & bluetooth connectivity, HDMI/USB/Audio ports, and other devices found on a typical computer. It is commonly used to teach programming and building hardware projects to home automation, robotics, and can also act as a streamer or web server. 
